@@ -74,6 +74,7 @@ os.system("clear")
 print  """      
  
    \033[1;92m▒Welcome To awaistaqi▒
+
 CorrectUsername = "awaistaqi"
 CorrectPassword = "wajdan"
 
