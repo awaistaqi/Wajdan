@@ -48,9 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
-##### LOGO #####
-logo = """
+
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -68,28 +66,6 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
-  \033[1;96m-         
-  \033[1;96m       
-  \033[1;96m  
- \033[1;96m   
- \033[1;96m 
- \033[1;96m 
-  \033[1;96m ─•◈•─  
-   \033[1;92m███████▒▒Welcome To awaistaqi▒▒████████
-\033[1;95m♡╭──•◈•──╮♡\033[1;96mawaistaqi\033[1;95m♡╭──•◈•──╮♡
-\033[1;94mAuthor\033[1;91m: \033[1;91mwajdan
-\033[1;94mawaistaqi\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mwajdan
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m+923019069766
-\033[1;95m♡╰──•◈•──╯♡\033[1;96mawaistaqi\033[1;95m♡╰──•◈•──╯♡"""
-jalan('              \033[1;96m...awaistaqi...:')
-jalan("\033[1;93m      ")
-jalan('\033[1;93m      ')
-jalan('\033[1;93m      ')
-jalan("\033[1;93m    ")
-jalan("\033[1;93m   ")
-print "\033[1;93m♡────♡\033[1;96mLogin awaistaqi\033[1;95m♡╰──•◈•──╯♡"
 
 CorrectUsername = "awaistaqi"
 CorrectPassword = "wajdan"
